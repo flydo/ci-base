@@ -1,0 +1,8 @@
+.DS_Store
+**/cache/*
+.idea/
+*/logs/*.php
+
+.htaccess
+.user.ini
+
